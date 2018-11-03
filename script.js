@@ -27,6 +27,9 @@ function playRandomTrack() {
     label.innerHTML = trackURL.substring(21);
     audio.load();
     audio.play();
+    audio.onended = function () {
+        playRandomTrack();
+    }
 }
 
 $(document).ready(function () {
