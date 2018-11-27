@@ -1,7 +1,7 @@
 # Random-Music-to-Code-by-Sample-Player
 A web page that plays a random Music to Code by (http://mtcb.pwop.com/) sample on every refresh
 
-It can be used [here](http://yunus.hacettepe.edu.tr/~erhan03/mtcb/)
+It can be used [here](http://mtcb.erh.pw)
 
 It plays a four minute sample of a randomly picked track and stops. Refresh the page to play another one.
 
